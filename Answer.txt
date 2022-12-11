@@ -1,0 +1,2 @@
+Adding all  values would be : 220
+Adding all  values would be : 454
